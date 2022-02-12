@@ -28,8 +28,9 @@ counter history problem comp: L1K01302 HD 1 C4.4 current ART: 0,01 new: 0
 ## VIKING AEGIR (7001957)
 
 ## VIKING ALRUNA (7002038)
-* counter history problem comp: GEX05051 M2 C18 current ART: 0,01 new: 0
-* ⚠️ **WARNING**: suspicious counter dependency: comp:  / M4 C32: ZOD - Öldiagnose >>> 500H not counter depending <<<, compid: 31000000004752, jobid: 31000000000653
+counter history problem comp: GEX05051 M2 C18 current ART: 0,01 new: 0
+
+⚠️ **WARNING**: suspicious counter dependency: comp:  / M4 C32: ZOD - Öldiagnose >>> 500H not counter depending <<<, compid: 31000000004752, jobid: 31000000000653
 
 ## VIKING ALSVIN (7001989)
 counter history problem comp: GES01217 M2 C18 current ART: 0,01 new: 0
