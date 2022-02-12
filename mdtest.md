@@ -1,6 +1,5 @@
-Server: HPFRED:3307
-
-Choose the ships to be checked and click "Check" to start the data checking.
+Server: HPFRED:3307  
+Choose the ships to be checked and click "Check" to start the data checking.  
 
 ***
 start 12.02.2022 15:55:54
@@ -21,7 +20,6 @@ start 12.02.2022 15:55:54
 ⚠️ **ERROR**: just another test
 
 ***
-finished - duration: 1s 41ms
-
+finished - duration: 1s 41ms  
 2 error(s)
 ***
